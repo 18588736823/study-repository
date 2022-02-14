@@ -1,2 +1,2 @@
 # study-repository
-点滴记录
+学习记录
